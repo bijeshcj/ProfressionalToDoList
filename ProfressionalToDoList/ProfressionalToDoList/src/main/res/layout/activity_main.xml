@@ -14,13 +14,20 @@
         android:id="@+id/myEditText"
         android:layout_height="wrap_content"
         android:layout_width="match_parent"
-        android:text="New to do list"
+        android:hint="New to do list"
         />
+
+    <Button android:id="@+id/enter"
+            android:layout_height="wrap_content"
+            android:layout_width="match_parent"
+            android:text="Enter"
+            />
 
     <ListView
         android:id="@+id/myListView"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         />
+
 
 </LinearLayout>

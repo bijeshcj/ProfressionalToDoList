@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
+    <!-- From: file:/home/npcompete/Bijesh/AndroiStudioWorkspace/ProfressionalToDoList/ProfressionalToDoList/ProfressionalToDoList/src/main/res/values/colors.xml -->
+    <color name="notepad_lines">#FF0000FF</color>
+    <color name="notepad_margin">#90FF0000</color>
+    <color name="notepad_paper">#AAFF00CB</color>
+    <color name="notepad_text">#AA0000FF</color>
     <!-- From: file:/home/npcompete/Bijesh/AndroiStudioWorkspace/ProfressionalToDoList/ProfressionalToDoList/ProfressionalToDoList/src/main/res/values/dimens.xml -->
     <dimen name="activity_horizontal_margin">16dp</dimen>
     <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="notepad_margin">30px</dimen>
     <!-- From: file:/home/npcompete/Bijesh/AndroiStudioWorkspace/ProfressionalToDoList/ProfressionalToDoList/ProfressionalToDoList/src/main/res/values/strings.xml -->
     <string name="action_settings">Settings</string>
     <string name="app_name">ProfressionalToDoList</string>
