@@ -26,6 +26,7 @@ public class ToDoList extends BaseActivity {
         aa = new ArrayAdapter<String>(this,R.layout.todoitems,toDoItems);
         myListView.setAdapter(aa);
 
+
         myEnterButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
