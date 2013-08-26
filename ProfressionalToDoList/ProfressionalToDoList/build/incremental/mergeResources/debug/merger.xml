@@ -9,6 +9,11 @@
                 qualifiers=""
                 type="layout" />
             <file
+                name="todoitems"
+                path="/home/npcompete/Bijesh/AndroiStudioWorkspace/ProfressionalToDoList/ProfressionalToDoList/ProfressionalToDoList/src/main/res/layout/todoitems.xml"
+                qualifiers=""
+                type="layout" />
+            <file
                 name="ic_launcher"
                 path="/home/npcompete/Bijesh/AndroiStudioWorkspace/ProfressionalToDoList/ProfressionalToDoList/ProfressionalToDoList/src/main/res/drawable-xxhdpi/ic_launcher.png"
                 qualifiers="xxhdpi"
@@ -72,10 +77,20 @@
                 </style>
             </file>
             <file
+                path="/home/npcompete/Bijesh/AndroiStudioWorkspace/ProfressionalToDoList/ProfressionalToDoList/ProfressionalToDoList/src/main/res/values/colors.xml"
+                qualifiers="" >
+                <color name="notepad_margin" >#90FF0000
+                </color>
+                <color name="notepad_text" >#AA0000FF
+                </color>
+                <color name="notepad_paper" >#AAFF00CB
+                </color>
+                <color name="notepad_lines" >#FF0000FF
+                </color>
+            </file>
+            <file
                 path="/home/npcompete/Bijesh/AndroiStudioWorkspace/ProfressionalToDoList/ProfressionalToDoList/ProfressionalToDoList/src/main/res/values/dimens.xml"
                 qualifiers="" >
-                <dimen name="notepad-margin" >30px
-                </dimen>
                 <dimen name="activity_horizontal_margin" >16dp
                 </dimen>
                 <dimen name="activity_vertical_margin" >16dp
@@ -83,9 +98,6 @@
                 <dimen name="notepad_margin" >30px
                 </dimen>
             </file>
-            <file
-                path="/home/npcompete/Bijesh/AndroiStudioWorkspace/ProfressionalToDoList/ProfressionalToDoList/ProfressionalToDoList/src/main/res/values-sw600dp/dimens.xml"
-                qualifiers="sw600dp" />
             <file
                 name="ic_launcher"
                 path="/home/npcompete/Bijesh/AndroiStudioWorkspace/ProfressionalToDoList/ProfressionalToDoList/ProfressionalToDoList/src/main/res/drawable-mdpi/ic_launcher.png"
@@ -108,23 +120,6 @@
                 <dimen name="activity_horizontal_margin" >128dp
                 </dimen>
             </file>
-            <file
-                path="/home/npcompete/Bijesh/AndroiStudioWorkspace/ProfressionalToDoList/ProfressionalToDoList/ProfressionalToDoList/src/main/res/values/colors.xml"
-                qualifiers="" >
-                <color name="notepad_margin" >#90FF0000
-                </color>
-                <color name="notepad_text" >#AA0000FF
-                </color>
-                <color name="notepad_paper" >#AAFF00CB
-                </color>
-                <color name="notepad_lines" >#FF0000FF
-                </color>
-            </file>
-            <file
-                name="todoitems"
-                path="/home/npcompete/Bijesh/AndroiStudioWorkspace/ProfressionalToDoList/ProfressionalToDoList/ProfressionalToDoList/src/main/res/layout/todoitems.xml"
-                qualifiers=""
-                type="layout" />
         </source>
         <source path="/home/npcompete/Bijesh/AndroiStudioWorkspace/ProfressionalToDoList/ProfressionalToDoList/ProfressionalToDoList/build/res/rs/debug" />
     </dataSet>

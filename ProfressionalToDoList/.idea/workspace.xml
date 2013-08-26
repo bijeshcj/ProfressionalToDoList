@@ -74,19 +74,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="ToDoList.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ProfressionalToDoList/src/main/java/com/profressionaltodolist/ToDoList.java">
+      <file leaf-file-name="ToDoListItemView.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ProfressionalToDoList/src/main/java/com/todo/components/ToDoListItemView.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="0" selection-start="244" selection-end="244" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1008">
+            <state line="42" column="52" selection-start="1176" selection-end="1176" vertical-scroll-proportion="0.0" vertical-offset="511" max-vertical-offset="1170">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Quake.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ProfressionalToDoList/src/main/java/org/test/Quake.java">
+      <file leaf-file-name="CompassView.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ProfressionalToDoList/src/main/java/com/todo/components/CompassView.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="40" column="81" selection-start="793" selection-end="793" vertical-scroll-proportion="0.3539326" vertical-offset="594" max-vertical-offset="1710">
+            <state line="49" column="31" selection-start="1164" selection-end="1164" vertical-scroll-proportion="0.43115124" vertical-offset="691" max-vertical-offset="1134">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -94,43 +94,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="dimens.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ProfressionalToDoList/src/main/res/values/dimens.xml">
+      <file leaf-file-name="strings.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ProfressionalToDoList/src/main/res/values/strings.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="25" selection-start="223" selection-end="223" vertical-scroll-proportion="0.0" vertical-offset="54" max-vertical-offset="216">
+            <state line="9" column="34" selection-start="385" selection-end="385" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="324">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ToDoListItemView.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ProfressionalToDoList/src/main/java/com/todo/components/ToDoListItemView.java">
+      <file leaf-file-name="colors.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ProfressionalToDoList/src/main/res/values/colors.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="33" column="24" selection-start="837" selection-end="837" vertical-scroll-proportion="0.0" vertical-offset="576" max-vertical-offset="1296">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="activity_main.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ProfressionalToDoList/src/main/res/layout/activity_main.xml">
-          <provider editor-type-id="android-designer">
-            <state />
-          </provider>
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="14" selection-start="889" selection-end="889" vertical-scroll-proportion="0.0" vertical-offset="136" max-vertical-offset="702">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="todoitems.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ProfressionalToDoList/src/main/res/layout/todoitems.xml">
-          <provider editor-type-id="android-designer">
-            <state />
-          </provider>
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="96" selection-start="136" selection-end="136" vertical-scroll-proportion="0.0" vertical-offset="18" max-vertical-offset="306">
+            <state line="9" column="4" selection-start="350" selection-end="350" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="306">
               <folding />
             </state>
           </provider>
@@ -184,21 +160,24 @@
       <list>
         <option value="$PROJECT_DIR$/ProfressionalToDoList/src/main/java/com/profressionaltodolist/MainActivity.java" />
         <option value="$PROJECT_DIR$/ProfressionalToDoList/src/main/java/com/profressionaltodolist/BaseActivity.java" />
-        <option value="$PROJECT_DIR$/ProfressionalToDoList/src/main/res/values/colors.xml" />
         <option value="$PROJECT_DIR$/ProfressionalToDoList/src/main/java/com/todo/components/ToDoListItemView.java" />
         <option value="$PROJECT_DIR$/ProfressionalToDoList/src/main/res/layout/todoitems.xml" />
         <option value="$PROJECT_DIR$/ProfressionalToDoList/src/main/res/values/dimens.xml" />
         <option value="$PROJECT_DIR$/ProfressionalToDoList/src/main/res/layout/activity_main.xml" />
         <option value="$PROJECT_DIR$/ProfressionalToDoList/src/main/java/com/profressionaltodolist/ToDoList.java" />
         <option value="$PROJECT_DIR$/ProfressionalToDoList/src/main/java/org/test/Quake.java" />
+        <option value="$PROJECT_DIR$/ProfressionalToDoList/src/main/java/org/test/IEarthQuakeService.aidl" />
+        <option value="$PROJECT_DIR$/ProfressionalToDoList/src/main/res/values/strings.xml" />
+        <option value="$PROJECT_DIR$/ProfressionalToDoList/src/main/res/values/colors.xml" />
+        <option value="$PROJECT_DIR$/ProfressionalToDoList/src/main/java/com/todo/components/CompassView.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-1" />
     <option name="y" value="24" />
-    <option name="width" value="1368" />
-    <option name="height" value="725" />
+    <option name="width" value="1602" />
+    <option name="height" value="857" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -226,7 +205,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -360,11 +338,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="res" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="layout" />
+              <option name="myItemId" value="java" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -394,7 +368,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="components" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -421,11 +399,16 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -575,33 +558,33 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1" y="24" width="1368" height="725" extended-state="6" />
-    <editor active="true" />
+    <frame x="-1" y="24" width="1602" height="857" extended-state="6" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32852808" sideWeight="0.67132866" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32954547" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32867134" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32692307" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32670453" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19545455" sideWeight="0.6730769" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24259974" sideWeight="0.67045456" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32867134" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32852808" sideWeight="0.6730769" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -666,82 +649,9 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ProfressionalToDoList/src/main/java/com/todo/components/ToDoListItemView.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="24" selection-start="837" selection-end="837" vertical-scroll-proportion="0.0" vertical-offset="576" max-vertical-offset="1296">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ProfressionalToDoList/src/main/res/layout/activity_main.xml">
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="14" selection-start="889" selection-end="889" vertical-scroll-proportion="0.0" vertical-offset="136" max-vertical-offset="702">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ProfressionalToDoList/src/main/res/layout/todoitems.xml">
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="96" selection-start="136" selection-end="136" vertical-scroll-proportion="0.0" vertical-offset="18" max-vertical-offset="306">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ProfressionalToDoList/src/main/java/com/profressionaltodolist/ToDoList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="50" column="5" selection-start="1730" selection-end="1730" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="900">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ProfressionalToDoList/src/main/res/layout/activity_main.xml">
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="33" selection-start="476" selection-end="476" vertical-scroll-proportion="0.0" vertical-offset="126" max-vertical-offset="576">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ProfressionalToDoList/src/main/AndroidManifest.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="36" selection-start="533" selection-end="533" vertical-scroll-proportion="0.535316" vertical-offset="0" max-vertical-offset="594">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ProfressionalToDoList/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="51" selection-start="274" selection-end="274" vertical-scroll-proportion="0.5018587" vertical-offset="0" max-vertical-offset="594" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ProfressionalToDoList/src/main/java/com/profressionaltodolist/BaseActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="9" column="63" selection-start="243" selection-end="243" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="396" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ProfressionalToDoList/src/main/res/values/colors.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="41" selection-start="92" selection-end="92" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="216">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ProfressionalToDoList/src/main/res/layout/todoitems.xml">
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="96" selection-start="136" selection-end="136" vertical-scroll-proportion="0.0" vertical-offset="18" max-vertical-offset="306">
-          <folding />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ProfressionalToDoList/build/source/r/debug/com/profressionaltodolist/R.java">
@@ -749,40 +659,91 @@
         <state line="26" column="39" selection-start="1303" selection-end="1303" vertical-scroll-proportion="-8.88" vertical-offset="156" max-vertical-offset="1242" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ProfressionalToDoList/src/main/res/values/dimens.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="25" selection-start="223" selection-end="223" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="216">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ProfressionalToDoList/src/main/java/com/todo/components/ToDoListItemView.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="24" selection-start="837" selection-end="837" vertical-scroll-proportion="0.0" vertical-offset="513" max-vertical-offset="1296">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ProfressionalToDoList/src/main/res/layout/activity_main.xml">
       <provider editor-type-id="android-designer">
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="14" selection-start="889" selection-end="889" vertical-scroll-proportion="0.0" vertical-offset="136" max-vertical-offset="702">
-          <folding />
-        </state>
+        <state line="23" column="14" selection-start="889" selection-end="889" vertical-scroll-proportion="0.0" vertical-offset="136" max-vertical-offset="702" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ProfressionalToDoList/src/main/java/com/profressionaltodolist/ToDoList.java">
+    <entry file="file://$PROJECT_DIR$/ProfressionalToDoList.iml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="0" selection-start="244" selection-end="244" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1008">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="356" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="356" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProfressionalToDoList/src/main/res/layout/todoitems.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="96" selection-start="136" selection-end="136" vertical-scroll-proportion="0.0" vertical-offset="18" max-vertical-offset="306" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProfressionalToDoList/src/main/res/values/dimens.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="45" selection-start="243" selection-end="243" vertical-scroll-proportion="0.20224719" vertical-offset="0" max-vertical-offset="356" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProfressionalToDoList/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="18" selection-start="204" selection-end="204" vertical-scroll-proportion="0.050561797" vertical-offset="180" max-vertical-offset="594" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProfressionalToDoList/ProfressionalToDoList-ProfressionalToDoList.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="26" selection-start="777" selection-end="777" vertical-scroll-proportion="0.050561797" vertical-offset="234" max-vertical-offset="1422" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ProfressionalToDoList/src/main/java/org/test/Quake.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="40" column="81" selection-start="793" selection-end="793" vertical-scroll-proportion="0.3539326" vertical-offset="594" max-vertical-offset="1710">
+        <state line="43" column="29" selection-start="876" selection-end="876" vertical-scroll-proportion="0.0" vertical-offset="562" max-vertical-offset="1620" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProfressionalToDoList/src/main/java/org/test/IEarthQuakeService.aidl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="1" selection-start="135" selection-end="135" vertical-scroll-proportion="0.252809" vertical-offset="0" max-vertical-offset="356" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProfressionalToDoList/src/main/java/com/profressionaltodolist/ToDoList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="32" selection-start="731" selection-end="731" vertical-scroll-proportion="0.0" vertical-offset="414" max-vertical-offset="1008">
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#756#764#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProfressionalToDoList/src/main/java/com/todo/components/ToDoListItemView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="42" column="52" selection-start="1176" selection-end="1176" vertical-scroll-proportion="0.0" vertical-offset="511" max-vertical-offset="1170">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProfressionalToDoList/src/main/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="34" selection-start="385" selection-end="385" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="324">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProfressionalToDoList/src/main/res/values/colors.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="4" selection-start="350" selection-end="350" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="306">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProfressionalToDoList/src/main/java/com/todo/components/CompassView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="49" column="31" selection-start="1164" selection-end="1164" vertical-scroll-proportion="0.43115124" vertical-offset="691" max-vertical-offset="1134">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
