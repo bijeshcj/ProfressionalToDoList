@@ -2,10 +2,13 @@
 <resources>
 
     <!-- From: file:/home/npcompete/Bijesh/AndroiStudioWorkspace/ProfressionalToDoList/ProfressionalToDoList/ProfressionalToDoList/src/main/res/values/colors.xml -->
+    <color name="background_color">#F555</color>
+    <color name="marker_color">#AFFF</color>
     <color name="notepad_lines">#FF0000FF</color>
     <color name="notepad_margin">#90FF0000</color>
     <color name="notepad_paper">#AAFF00CB</color>
     <color name="notepad_text">#AA0000FF</color>
+    <color name="text_color">#AFFF</color>
     <!-- From: file:/home/npcompete/Bijesh/AndroiStudioWorkspace/ProfressionalToDoList/ProfressionalToDoList/ProfressionalToDoList/src/main/res/values/dimens.xml -->
     <dimen name="activity_horizontal_margin">16dp</dimen>
     <dimen name="activity_vertical_margin">16dp</dimen>
@@ -13,6 +16,10 @@
     <!-- From: file:/home/npcompete/Bijesh/AndroiStudioWorkspace/ProfressionalToDoList/ProfressionalToDoList/ProfressionalToDoList/src/main/res/values/strings.xml -->
     <string name="action_settings">Settings</string>
     <string name="app_name">ProfressionalToDoList</string>
+    <string name="cardinal_east">E</string>
+    <string name="cardinal_north">N</string>
+    <string name="cardinal_south">S</string>
+    <string name="cardinal_west">W</string>
     <string name="hello_world">Hello world!</string>
     <!-- From: file:/home/npcompete/Bijesh/AndroiStudioWorkspace/ProfressionalToDoList/ProfressionalToDoList/ProfressionalToDoList/src/main/res/values/styles.xml -->
     <style name="AppBaseTheme" parent="android:Theme.Light">

@@ -47,11 +47,19 @@
             <file
                 path="/home/npcompete/Bijesh/AndroiStudioWorkspace/ProfressionalToDoList/ProfressionalToDoList/ProfressionalToDoList/src/main/res/values/strings.xml"
                 qualifiers="" >
+                <string name="cardinal_south" >S
+                </string>
                 <string name="action_settings" >Settings
+                </string>
+                <string name="cardinal_west" >W
+                </string>
+                <string name="cardinal_east" >E
                 </string>
                 <string name="app_name" >ProfressionalToDoList
                 </string>
                 <string name="hello_world" >Hello world!
+                </string>
+                <string name="cardinal_north" >N
                 </string>
             </file>
             <file
@@ -81,9 +89,15 @@
                 qualifiers="" >
                 <color name="notepad_margin" >#90FF0000
                 </color>
+                <color name="text_color" >#AFFF
+                </color>
+                <color name="background_color" >#F555
+                </color>
                 <color name="notepad_text" >#AA0000FF
                 </color>
                 <color name="notepad_paper" >#AAFF00CB
+                </color>
+                <color name="marker_color" >#AFFF
                 </color>
                 <color name="notepad_lines" >#FF0000FF
                 </color>
@@ -120,6 +134,11 @@
                 <dimen name="activity_horizontal_margin" >128dp
                 </dimen>
             </file>
+            <file
+                name="compassview"
+                path="/home/npcompete/Bijesh/AndroiStudioWorkspace/ProfressionalToDoList/ProfressionalToDoList/ProfressionalToDoList/src/main/res/layout/compassview.xml"
+                qualifiers=""
+                type="layout" />
         </source>
         <source path="/home/npcompete/Bijesh/AndroiStudioWorkspace/ProfressionalToDoList/ProfressionalToDoList/ProfressionalToDoList/build/res/rs/debug" />
     </dataSet>

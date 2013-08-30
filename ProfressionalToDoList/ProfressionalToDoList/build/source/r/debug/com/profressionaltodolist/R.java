@@ -13,10 +13,13 @@ public final class R {
     public static final class color {
         /**  From: file:/home/npcompete/Bijesh/AndroiStudioWorkspace/ProfressionalToDoList/ProfressionalToDoList/ProfressionalToDoList/src/main/res/values/colors.xml 
          */
-        public static final int notepad_lines=0x7f040000;
-        public static final int notepad_margin=0x7f040001;
-        public static final int notepad_paper=0x7f040002;
-        public static final int notepad_text=0x7f040003;
+        public static final int background_color=0x7f040000;
+        public static final int marker_color=0x7f040001;
+        public static final int notepad_lines=0x7f040002;
+        public static final int notepad_margin=0x7f040003;
+        public static final int notepad_paper=0x7f040004;
+        public static final int notepad_text=0x7f040005;
+        public static final int text_color=0x7f040006;
     }
     public static final class dimen {
         /**  From: file:/home/npcompete/Bijesh/AndroiStudioWorkspace/ProfressionalToDoList/ProfressionalToDoList/ProfressionalToDoList/src/main/res/values/dimens.xml 
@@ -30,14 +33,16 @@ public final class R {
         public static final int ic_launcher=0x7f020000;
     }
     public static final class id {
-        public static final int action_settings=0x7f090003;
+        public static final int action_settings=0x7f090004;
+        public static final int compassView=0x7f090003;
         public static final int enter=0x7f090001;
         public static final int myEditText=0x7f090000;
         public static final int myListView=0x7f090002;
     }
     public static final class layout {
         public static final int activity_main=0x7f030000;
-        public static final int todoitems=0x7f030001;
+        public static final int compassview=0x7f030001;
+        public static final int todoitems=0x7f030002;
     }
     public static final class menu {
         public static final int main=0x7f080000;
@@ -47,7 +52,11 @@ public final class R {
          */
         public static final int action_settings=0x7f060000;
         public static final int app_name=0x7f060001;
-        public static final int hello_world=0x7f060002;
+        public static final int cardinal_east=0x7f060002;
+        public static final int cardinal_north=0x7f060003;
+        public static final int cardinal_south=0x7f060004;
+        public static final int cardinal_west=0x7f060005;
+        public static final int hello_world=0x7f060006;
     }
     public static final class style {
         /**  From: file:/home/npcompete/Bijesh/AndroiStudioWorkspace/ProfressionalToDoList/ProfressionalToDoList/ProfressionalToDoList/src/main/res/values/styles.xml 
