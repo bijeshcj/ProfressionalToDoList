@@ -10,6 +10,7 @@ public class CompassViewActivity extends BaseActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.compassview);
+//        setContentView(R.layout.compassview);
+        setContentView(R.layout.linegraphview);
     }
 }

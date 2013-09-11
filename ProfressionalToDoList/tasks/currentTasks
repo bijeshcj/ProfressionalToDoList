@@ -1,0 +1,7 @@
+Ex-1: create a line graph which will show lines raising and falling line ecg machine -- in progress
+    NOTE: created a class LineGraphView
+
+    1) compare and see how the CompassView is made
+    2) draw a rectangle with background color lavander -- in progress
+          1) follow step 1
+          2) the rectangle is size is hard coded make it (fit the size of the screen - 10px) -- in progress

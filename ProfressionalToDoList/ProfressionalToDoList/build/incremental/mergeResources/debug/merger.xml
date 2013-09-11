@@ -57,9 +57,9 @@
                 </string>
                 <string name="app_name" >ProfressionalToDoList
                 </string>
-                <string name="hello_world" >Hello world!
-                </string>
                 <string name="cardinal_north" >N
+                </string>
+                <string name="hello_world" >Hello world!
                 </string>
             </file>
             <file
@@ -95,9 +95,9 @@
                 </color>
                 <color name="notepad_text" >#AA0000FF
                 </color>
-                <color name="notepad_paper" >#AAFF00CB
-                </color>
                 <color name="marker_color" >#AFFF
+                </color>
+                <color name="notepad_paper" >#AAFF00CB
                 </color>
                 <color name="notepad_lines" >#FF0000FF
                 </color>
@@ -137,6 +137,11 @@
             <file
                 name="compassview"
                 path="/home/npcompete/Bijesh/AndroiStudioWorkspace/ProfressionalToDoList/ProfressionalToDoList/ProfressionalToDoList/src/main/res/layout/compassview.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="linegraphview"
+                path="/home/npcompete/Bijesh/AndroiStudioWorkspace/ProfressionalToDoList/ProfressionalToDoList/ProfressionalToDoList/src/main/res/layout/linegraphview.xml"
                 qualifiers=""
                 type="layout" />
         </source>
